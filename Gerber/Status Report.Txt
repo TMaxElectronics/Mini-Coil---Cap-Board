@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TO247 Cap Board.PcbDoc]
+   Generated File[TO247 Cap Board.TXT]
+   Generated File[TO247 Cap Board.LDP]
+   Generated File[TO247 Cap Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:57:43 On 11/07/2023
