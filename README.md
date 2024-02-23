@@ -29,6 +29,8 @@ Just make sure that the ratings are sufficient and the footprint similar (especi
 **Word of warning on NOS or used Capacitors:** Buying used or new old stock capacitors is definetely not a bad bet if you want to save some money (thats what I did after all :P) but you want to be careful when first charging them. Electrolytic caps degenrate their oxide layer over time and if you immediately fully charge old caps they might actually short out internally. Look up "regenerating old capacitors" for a recommendation on how to charge old caps without destroying them. But the idea basically to jsut charge it to a low voltage, let it sit for a while, charge more, let it sit and so on and so on.
 
 # Assembly notes
+Most important: make sure to place the caps the right way around to avoid fireworks :P
+
 Do not solder the caps first ;) I made that same mistake (because it just felt good immediately placing those many big caps :P) but trust me its a pain to populate the small tht resistors and the neon indicators.
 
 If you didn't buy neon indicators or just don't like them for some reason you don't need to populate them. I added them as a safe and reliable indicator for "don't touch the coil, death cans still contain death".
