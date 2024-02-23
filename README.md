@@ -37,3 +37,16 @@ If you didn't buy neon indicators or just don't like them for some reason you do
 
 # Testing
 there's not really anything you can test on this board :) If you want to do it before putting the coil together you can re-generate the caps after assembly though (if neccessary).
+
+# Disclaimer
+This project utilises dangerous (lethal!) voltages! There is a high likelyhood of fire/personal harm if you don't know what you are doing. Use these files at your own risk. Any damage you do to yourself or other people with this project is not my responsibility.
+
+I also make no promises about the correctness of any of the info given in this project or any of its files. It is also your responsibility to verify all of the data in this when building your own coil. You are thus responsible for any damage caused even by mistakes in these files.
+
+Ensue the standard legal disclaimer text just to be sure... (modified for open hardware)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this data and associated documentation files (the “data”), to deal in the data without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the data, and to permit persons to whom the data is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the data.
+
+THE DATA IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE DATA OR THE USE OR OTHER DEALINGS IN THE DATA.
