@@ -15,7 +15,7 @@ Here's what you'll need to build it:
 Since this board has such a small BOM I'll just list it here:
 
 | Designator | Quantity | Description | Part Number / Order Number |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | C1-C16 | 16 | Electrolytic Capacitor 300V 1000uF (d-h-p=35-50-10)     | Epcos b43504-s3108-m3 |
 | R1-R4 | 4 | High Power Resistor 47k 7W | SQMR747KJ |
 | R5-R8 | 4 | THT Resistor 100k | MFR-25FRF52-100K |
