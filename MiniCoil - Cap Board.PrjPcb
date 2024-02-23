@@ -49,40 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=TO247 Cap Board.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HGFZGUSF
-
-[Document2]
-DocumentPath=TO247 Cap Board.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VIANOYCU
-
-[Document3]
 DocumentPath=..\..\..\Libraries\stdLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document2]
 DocumentPath=..\..\..\Libraries\stdLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document3]
 DocumentPath=..\..\..\Libraries\Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document4]
 DocumentPath=..\..\..\Libraries\Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document5]
 DocumentPath=Gerber Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,192 +133,102 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.DRR
+[Document6]
+DocumentPath=MiniCoil - Cap Board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[Document7]
+DocumentPath=MiniCoil - Cap Board.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument3]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument4]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument5]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument6]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument7]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument8]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument9]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument10]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument11]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.html
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument12]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.html
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument13]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument14]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument15]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=.\Gerber\V1.0\TO247 Cap Board.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument16]
 DocumentPath=Gerber\V1.0\TO247 Cap Board.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Capacitor Board\TO247 Cap Board.TXT
 DItemRevisionGUID=
 
 [Configuration1]
